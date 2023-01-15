@@ -60,5 +60,6 @@
 ## 1. Saga (Pub / Sub)
 
 ## 2. CQRS
+![image](https://user-images.githubusercontent.com/31918056/212544930-e15e80d8-9e00-4f58-9e18-bc9f9d579b88.png)
 
 ## 3. Compensation / Correlation
