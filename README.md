@@ -55,11 +55,11 @@
 
 
 ## Event Storming
-![image](https://user-images.githubusercontent.com/31918056/212545572-492ecfb3-9733-47b3-82db-f03dd138a51f.png)
-
 ## 1. Saga (Pub / Sub)
+![image](https://user-images.githubusercontent.com/31918056/212545572-492ecfb3-9733-47b3-82db-f03dd138a51f.png)
 
 ## 2. CQRS
 ![image](https://user-images.githubusercontent.com/31918056/212544930-e15e80d8-9e00-4f58-9e18-bc9f9d579b88.png)
 
 ## 3. Compensation / Correlation
+![image](https://user-images.githubusercontent.com/31918056/212546349-61a8e13f-587b-4fbe-8a50-d014e2e39b25.png)
