@@ -55,7 +55,7 @@
 
 
 ## Event Storming
-![image](https://user-images.githubusercontent.com/31918056/212544217-76adc0be-3acf-4ba0-b3e9-8f626fbfb936.png)
+![image](https://user-images.githubusercontent.com/31918056/212545572-492ecfb3-9733-47b3-82db-f03dd138a51f.png)
 
 ## 1. Saga (Pub / Sub)
 
