@@ -53,3 +53,8 @@
 
 # 체크포인트
 
+## 1. Saga (Pub / Sub)
+
+## 2. CQRS
+
+## 3. Compensation / Correlation
