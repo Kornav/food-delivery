@@ -56,7 +56,7 @@
 
 ## Event Storming
 ## 1. Saga (Pub / Sub)
-![image](https://user-images.githubusercontent.com/31918056/212545572-492ecfb3-9733-47b3-82db-f03dd138a51f.png)
+![image](https://user-images.githubusercontent.com/31918056/212546683-a45a2a5d-0ba9-45ee-ac4c-527449140299.png)
 
 ## 2. CQRS
 ![image](https://user-images.githubusercontent.com/31918056/212544930-e15e80d8-9e00-4f58-9e18-bc9f9d579b88.png)
