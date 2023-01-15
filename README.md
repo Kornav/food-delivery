@@ -53,8 +53,11 @@
 
 # 체크포인트
 
-## 1. Saga (Pub / Sub)
+
+## Event Storming
 ![image](https://user-images.githubusercontent.com/31918056/212544217-76adc0be-3acf-4ba0-b3e9-8f626fbfb936.png)
+
+## 1. Saga (Pub / Sub)
 
 ## 2. CQRS
 
